@@ -1,4 +1,4 @@
-[
+{"posts":[
    {
       "name":"Karthik",
       "marital":"single",
@@ -24,3 +24,4 @@
       }
    }
 ]
+}
