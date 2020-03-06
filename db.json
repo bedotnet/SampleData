@@ -1,1 +1,26 @@
-"# smplesjon" 
+[
+   {
+      "name":"Karthik",
+      "marital":"single",
+      "contact":{
+         "email":"karhtikhebar600@gmail.com",
+         "phone":9449625166
+      }
+   },
+   {
+      "name":"Imran",
+      "marital":"married",
+      "contact":{
+         "email":"karhtikhebar600@gmail.com",
+         "phone":9449625166
+      }
+   },
+   {
+      "name":"Harshith",
+      "marital":"single",
+      "contact":{
+         "email":"karhtikhebar600@gmail.com",
+         "phone":9449625166
+      }
+   }
+]
