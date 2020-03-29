@@ -1,57 +1,58 @@
 {
-    "contents": [
-        {
-            "file": "test",
-            "type": "dir",
-            "contents": [
-                {
-                    "file": "for",
-                    "type": "dir",
-                    "contents": [
+   "contents":[
+      {
+         "file":"test",
+         "type":"dir",
+         "contents":[
+            {
+               "file":"for",
+               "type":"dir",
+               "contents":[
+                  {
+                     "file":"groovy",
+                     "type":"dir",
+                     "contents":[
                         {
-                            "file": "groovy",
-                            "type": "dir",
-                            "contents": [
-                                {
-                                    "file": "afile.groovy",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "file": "insidefor.txt",
-                            "type": "file"
-                        },
-                        {
-                            "file": "insidefor2.txt",
-                            "type": "file"
+                           "file":"afile.groovy",
+                           "type":"file"
                         }
-                    ]
-                }
-            ]
-        },
-        {
-            "file": "woo.html",
-            "type": "file"
-        }
-    ],
-    "UsersData": [{
-		Name: "Humpty's Desktop",
-		LastBackup: "2015-04-20",
-		Type: "Desktop",
-		StorageUsed: 34.5
-	},
-	{
-		Name: "Dumpty's Laptop",
-		LastBackup: "2020-02-23",
-		Type: "Laptop",
-		StorageUsed: 12.5
-	},
-	{
-		Name: "Charlies Phone",
-		LastBackup: "2020-03-27",
-		Type: "Mobile",
-		StorageUsed: 5
-	}
-]
+                     ]
+                  },
+                  {
+                     "file":"insidefor.txt",
+                     "type":"file"
+                  },
+                  {
+                     "file":"insidefor2.txt",
+                     "type":"file"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "file":"woo.html",
+         "type":"file"
+      }
+   ],
+   "UsersData":[
+      {
+         "Name":"Humpty's Desktop",
+         "LastBackup":"2015-04-20",
+         "Type":"Desktop",
+         "StorageUsed":34.5
+      },
+      {
+         "Name":"Dumpty's Laptop",
+         "LastBackup":"2020-02-23",
+         "Type":"Laptop",
+         "StorageUsed":12.5
+      },
+      {
+         "Name":"Charlies Phone",
+         "LastBackup":"2020-03-27",
+         "Type":"Mobile",
+         "StorageUsed":5
+      }
+   ]
 }
