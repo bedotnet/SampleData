@@ -40,7 +40,7 @@
          "Name":"Humpty's Desktop",
          "LastBackup":"2015-04-20",
          "Type":"Desktop",
-         "StorageUsed":64.5
+         "StorageUsed":55
       },
       {
          "Name":"Dumpty's Laptop",
@@ -52,7 +52,7 @@
          "Name":"Charlies Phone",
          "LastBackup":"2020-03-27",
          "Type":"Mobile",
-         "StorageUsed":8
+         "StorageUsed":12
       }
    ],
    
